@@ -33,8 +33,3 @@ where path is the **absolute path** from the root of your file system.
 
 
 The module will guess the type of your file and use the best extracting modules for the content.
-
-## To Do
-
-[ ] Write more information about the modules, the next features
-[ ] Link this file with a complete documentation
